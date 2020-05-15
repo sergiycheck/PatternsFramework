@@ -129,9 +129,7 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="codefistfromdatabase\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202005061413382_initialMigration.resx">
       <DependentUpon>202005061413382_initialMigration.cs</DependentUpon>
